@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D3AE577-50E5-4E1E-BA36-5B58FA440B81</string>
+	<key>IDESourceControlProjectName</key>
+	<string>merge_sort</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AB797569B64C1B43193BF9AE564C630711BE43AF</key>
+		<string>https://github.com/jamesguoxin/Algorithms.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>merge_sort/merge_sort.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AB797569B64C1B43193BF9AE564C630711BE43AF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamesguoxin/Algorithms.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AB797569B64C1B43193BF9AE564C630711BE43AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB797569B64C1B43193BF9AE564C630711BE43AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Algorithms</string>
+		</dict>
+	</array>
+</dict>
+</plist>
