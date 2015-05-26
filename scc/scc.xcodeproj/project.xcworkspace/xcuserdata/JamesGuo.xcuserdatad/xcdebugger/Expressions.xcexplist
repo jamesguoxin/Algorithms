@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "dir_graph::SCC():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "visited">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "std::__1::map&lt;int, int, std::__1::less&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::__construct_node_with_key(int const&amp;):map">
+      </ContextState>
+      <ContextState
+         contextName = "Tools::readTxt(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "dir_graph::DFSUntil_scc(int, bool*, int):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "dir_graph::DFSUntil_reversed(int, bool*):main.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
