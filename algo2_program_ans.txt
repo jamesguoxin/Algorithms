@@ -1,0 +1,4 @@
+Week 1 Greedy Algorithm
+Q1 69119377652
+Q2 67311454237
+Q3 -3612829
